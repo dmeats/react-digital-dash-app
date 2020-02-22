@@ -8,7 +8,7 @@ import GraphBodyBackground from './GraphBodyBackground'
 
 
 import BarData from './BarData'
-
+// important stuff
 const BarGraph = (props) => {
 const {x,y}=props
     return(
