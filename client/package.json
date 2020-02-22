@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmeats.github.io/digital-dash-app/client/",
+  "homepage": "https://dmeats.github.io/digital-dash-app/client",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
