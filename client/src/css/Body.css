@@ -1,0 +1,10 @@
+.Body-for-Graphs {
+          min-height: 92vh;
+          display: flex;
+          flex-direction: column;
+          margin: 10 auto; 
+          text-align: center; 
+          background-color: rgb(107, 98, 76);
+
+          
+        }
