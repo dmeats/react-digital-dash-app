@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-digital-dash-app/static/css/main.af5d4027.chunk.css",
+    "main.js": "/react-digital-dash-app/static/js/main.0c0a34a4.chunk.js",
+    "main.js.map": "/react-digital-dash-app/static/js/main.0c0a34a4.chunk.js.map",
+    "runtime-main.js": "/react-digital-dash-app/static/js/runtime-main.4651ee1b.js",
+    "runtime-main.js.map": "/react-digital-dash-app/static/js/runtime-main.4651ee1b.js.map",
+    "static/js/2.f3b02067.chunk.js": "/react-digital-dash-app/static/js/2.f3b02067.chunk.js",
+    "static/js/2.f3b02067.chunk.js.map": "/react-digital-dash-app/static/js/2.f3b02067.chunk.js.map",
+    "index.html": "/react-digital-dash-app/index.html",
+    "precache-manifest.1e78734cd4e4aba1dad6cd99f20555f4.js": "/react-digital-dash-app/precache-manifest.1e78734cd4e4aba1dad6cd99f20555f4.js",
+    "service-worker.js": "/react-digital-dash-app/service-worker.js",
+    "static/css/main.af5d4027.chunk.css.map": "/react-digital-dash-app/static/css/main.af5d4027.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4651ee1b.js",
+    "static/js/2.f3b02067.chunk.js",
+    "static/css/main.af5d4027.chunk.css",
+    "static/js/main.0c0a34a4.chunk.js"
+  ]
+}
